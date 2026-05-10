@@ -1,6 +1,6 @@
 # StellarMart Sales Analysis 📊
 
-### Interactive Excel Dashboard & Business Analysis Project
+### Interactive Excel Dashboard & Business Analysis Project | Ad Hoc Analysis | Excel
 
 Comprehensive Excel-based sales analysis project focused on identifying business growth trends, regional performance, seasonal fluctuations, and category-wise insights for StellarMart during 2023–2024.
 
